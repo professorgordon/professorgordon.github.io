@@ -1,5 +1,2 @@
-layout: page
-title: "Contact"
-permalink: /pages/contact/
 
 # Contact
