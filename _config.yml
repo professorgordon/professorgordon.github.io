@@ -2,3 +2,4 @@ theme: jekyll-theme-midnight
 title: "John Gordon"
 description: "Professor of Computer Science &<br> Information Systems @ <a href='http://www.slcc.edu' target='_blank'>SLCC</a>"
 github: "is_project_page: false"
+classes: wide
